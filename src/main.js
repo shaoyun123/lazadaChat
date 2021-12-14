@@ -27,3 +27,4 @@ new Vue({
   template: '<App/>'
 })
 1
+2
